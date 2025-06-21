@@ -1,3 +1,6 @@
+git init
+git add
+git config - global user name 
 
 # Haikus for Codespaces
 
